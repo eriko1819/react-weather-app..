@@ -7,7 +7,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>AJAX HW React W3</h1>
+      <h1>Weather App</h1>
       <Weather />
     </div>
   );
